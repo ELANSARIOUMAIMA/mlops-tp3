@@ -1,7 +1,7 @@
 {
   "schema_version": "tp3.release_manifest.v1",
-  "generated_at": "2026-10-16T00:24:31.353415+00:00",
-  "git_revision": "3d93178ba6179ede8b324652664c959e7d018ea3",
+  "generated_at": "2026-10-16T23:04:48.391779+00:00",
+  "git_revision": "cf485c36b0713ff6765ca1084acca6446da039ac",
   "model": {
     "name": "predictive-maintenance",
     "alias": "champion",
